@@ -131,3 +131,6 @@ dmypy.json
 # vscode stuff
 .vscode/
 *.code-workspace
+
+# project data
+assignments/Leaf2012.mat
