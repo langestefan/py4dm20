@@ -133,4 +133,4 @@ dmypy.json
 *.code-workspace
 
 # project data
-assignments/Leaf2012.mat
+assignments/*.mat
