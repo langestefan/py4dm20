@@ -1,6 +1,6 @@
-# py4dm20
+# Python 4DM20
 
-Python implementation of computer assignments for course 4dm20.
+Python implementation of computer assignments for course 4DM20 at Eindhoven TU/e. 
 
 ## Installation instructions
 
